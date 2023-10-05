@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+[
++src/main/java/org/qazandoselenium/Main.java,e\8\e83210b2c01ba8633394208dce8b62d5300eca4a
+P
+ src/test/java/support/Utils.java,c\f\cfb05221f6063c9c870deedb6221f0c403ad1dcd
+S
+#src/test/java/steps/LoginSteps.java,6\0\60a999fa2ae56d1081f61fa5b8a47ecba8253150
+V
+&src/test/java/steps/CadastroSteps.java,7\3\736dab1345767ba1a90d730a2ea5a7cb51c8a312
+Y
+)src/test/java/runner/RunCucumberTest.java,b\f\bf72acd62023ad43fda21f250136208843e88bc8
+R
+"src/test/java/pages/LoginPage.java,2\f\2febc867dad266b12f3cf09596e572e0dcf37dbf
+U
+%src/test/java/pages/CadastroPage.java,a\5\a576a066a534e9fc7d88021ed4e77bca8194fdb2
+Q
+!src/test/java/runner/RunBase.java,3\c\3c8a02b72e796f1cdc0872808ac6b309bb991003
+U
+%src/test/java/steps/MessageSteps.java,3\d\3d96ac2df52cb0602afde896f730733a046dc8bc
+T
+$src/test/java/pages/MessagePage.java,4\0\40ef063a6aab14cde3efd17caec6df359764bb3b
